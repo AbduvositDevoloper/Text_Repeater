@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text Repeater</string>
+
+    <string name="count">Count</string>
+    <string name="enter_text">Enter text</string>
+    <string name="text_repeater">Text Repeater</string>
+    <string name="creator"><![CDATA[-> Abduvosit]]></string>
+    <string name="index">Add index</string>
+    <string name="repeat">REPEAT</string>
+    <string name="copy">COPY</string>
+    <string name="share">SHARE</string>
+    <string name="new_line">New line</string>
+    <string name="_50">50</string>
+
+</resources>
